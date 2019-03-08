@@ -1,0 +1,7 @@
+dans chat-backend : npm install
+                    node node_modules/nodemon/bin/nodemon.js index.js
+dans chat-frontend: npm install
+                    npm run dev
+
+
+L'url du site web est : dreary-cow.surge.sh
